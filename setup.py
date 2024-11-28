@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="kdocpyxl",
-    version="0.0.1",
+    version="0.0.2",
     author="silverze",
     author_email="silverze@foxmail.com",
     description="Kingsoft cloud document excel Python read and write library",
