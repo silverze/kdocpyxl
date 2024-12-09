@@ -4,7 +4,7 @@ from kdocpyxl.write_data import WpsCloudExcelWriter
 云文档自动化测试文件：https://cvte.kdocs.cn/l/cgyglnLWT6hv
 """
 WEBHOOK_URL = "https://cvte.kdocs.cn/api/v3/ide/file/cgyglnLWT6hv/script/V2-4PSSwY3aqnGOlxKwp0u2BB/sync_task"
-API_TOKEN = "2VbsT0H5cjj1H4sDVWx4Uz"
+API_TOKEN = "328aBVqsuEePnyCGqkFIRX"
 
 # 创建 WpsCloudExcelWriter 实例
 writer = WpsCloudExcelWriter(WEBHOOK_URL, API_TOKEN)
