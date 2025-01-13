@@ -5,7 +5,7 @@ from kdocpyxl.read_data import WpsCloudExcelReader
 """
 
 WEBHOOK_URL = "https://cvte.kdocs.cn/api/v3/ide/file/cgyglnLWT6hv/script/V2-4PSSwY3aqnGOlxKwp0u2BB/sync_task"
-API_TOKEN = "328aBVqsuEePnyCGqkFIRX"
+API_TOKEN = "3hD0e1wcbQQxGuxBFdd71g"
 
 reader = WpsCloudExcelReader(WEBHOOK_URL, API_TOKEN)
 
